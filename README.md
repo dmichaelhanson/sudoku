@@ -1,8 +1,8 @@
-#Sukoku.py
+**Sukoku.py**
 
 Sudoku.py is a sudoku game and solver
 
-##Information:
+**Information:**
 
 NAME: DOMENIC HANSON
 ASSIGNMENT: PORTFOLIO PROJECT - SUDOKU
@@ -27,7 +27,7 @@ Sudoku game in the terminal
 
 Play a game of sudoku in the terminal. Sudoku is played on a 9x9 grid composed of 9 &quot;boxes&quot; of 3x3 grids that divide the grid equally and do not overlap. The rules of sudoku are to complete a 9x9 grid using the integers 1-9 where each row, column, and box in the grid contains each number from 1 to 9 with no repeated or missing numbers in an given row, column, or box. A given number of cells are prepopulated at the start of the game and the user must fill in the remaining cells adhering to these rules until the board is solved.
 
-##Functions:
+**Functions:**
 
 **play():**
 
