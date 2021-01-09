@@ -33,7 +33,7 @@ Play a game of sudoku in the terminal. Sudoku is played on a 9x9 grid composed o
 
 This function handles the running of the game. It generates the default board and prints instructions. It then continues to print the board and prompt the user for moves until the board is solved, the user quits, or the user selects to have the program solve the board. If the user solves the board or has the program solve the board, the user is prompted to play again or quit.
 
-##Classes:
+**Classes:**
 
 **Sudoku:** 
 The Sudoku class creates a sudoku game and contains the relevant attributes and methods to generate a board, allow a user to make moves, verify the moves, verify the board is solved, and solve the board according to the rules of sudoku. When an object of this class is initially constructed, it creats a &quot;base board&quot; that has a hard coded sudoku starting puzzle, a player board that copies these hard coded values and will maintain the player&#39;s moves, a boxes board to track the values used in each box, and arrays to track if a number was used in a given row, column, or box.
